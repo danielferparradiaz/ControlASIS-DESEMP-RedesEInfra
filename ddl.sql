@@ -2,6 +2,8 @@
 -- CREACIÓN DE TABLAS BASE
 -- ========================
 
+CREATE DATABASE IF NOT EXISTS redes_control_estu_bd;
+
 CREATE TABLE estudiante (
     id_estudiante INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL,
