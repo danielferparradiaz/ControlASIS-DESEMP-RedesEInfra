@@ -4,7 +4,7 @@ host: 'localhost',
 user: 'root',
 password: ''
 ,
-database: 'capasAlmacen'
+database: 'controlASIS-DESEMP'
 });
 
 
